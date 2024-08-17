@@ -25,8 +25,8 @@ theme:
     - navigation.tabs # 控制顶部导航栏
     - navigation.instant # 这个配置开启, 会让网站像一页一样, 点新的页时不会刷新页面, 仅仅是material提供这个功能
 nav:
+  - 关于我: index.md
   - 搭建过程: 搭建过程.md
-  - 关于我: 关于我.md
   # - 测试页: 测试页.md
   # - 就业信息资源: 
   #   - 就业信息: ./就业信息/2019级.md
