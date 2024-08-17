@@ -26,7 +26,7 @@ theme:
     - navigation.instant # 这个配置开启, 会让网站像一页一样, 点新的页时不会刷新页面, 仅仅是material提供这个功能
 nav:
   - 我: 
-    - 我: 关于我.md
+    - 我: index.md # 进入网站会默认显示index.md
     - 我的本科学习:
       - 前言: 我的本科学习/前言.md
       - 大一上: 我的本科学习/大一上.md
