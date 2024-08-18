@@ -2,6 +2,7 @@ site_name: 小宁の记录
 theme:
   name: material
   custom_dir: overrides  # 添加评论系统用
+  # comments: true
   palette:
     # Toggle light mode
     - scheme: default  # scheme方案, default亮色
@@ -25,6 +26,7 @@ theme:
   features:
     - navigation.tabs # 控制顶部导航栏
     - navigation.instant # 这个配置开启, 会让网站像一页一样, 点新的页时不会刷新页面, 仅仅是material提供这个功能
+
 nav:
   - 我: 
     - 我: index.md # 进入网站会默认显示index.md
@@ -57,6 +59,7 @@ extra_javascript:
 
 extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css
+
 
 # extra_javascript:
 #   - javascripts/katex.js
