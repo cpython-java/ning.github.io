@@ -1,6 +1,7 @@
 site_name: 小宁の记录
 theme:
   name: material
+  custom_dir: overrides  # 添加评论系统用
   palette:
     # Toggle light mode
     - scheme: default  # scheme方案, default亮色
