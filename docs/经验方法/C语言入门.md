@@ -18,4 +18,4 @@
     - 简单的自动生成
 
 
-对这部分录了个简单的视频讲解传到了b站：<a href="">C语言初学者如何自行解决问题</a>
+对这部分录了个简单的视频讲解传到了b站：<a href="https://www.bilibili.com/video/BV18v4bedELy/?spm_id_from=333.999.0.0&vd_source=b860e605d4fbe80fec0c35e8df181b3b">C语言初学者如何自行解决问题</a>
